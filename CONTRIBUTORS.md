@@ -8,8 +8,8 @@ This project exists because of your time, effort, and curiosity.
 
 ## 👥 Contributors List
 
-- **Name:** Your Name  
-- **GitHub:** https://github.com/your-username  
+- **Name:** Your Name
+- **GitHub:** https://github.com/your-username
 - **About:** Short description about yourself
 
 ---
@@ -22,16 +22,16 @@ This project exists because of your time, effort, and curiosity.
 
 - **Name:** Vansh Kumar Patel
 - **GitHub:** https://github.com/vansh216
-- **About:** I am Vansh Kumar Patel, a second-year Information Technology student at KNIT    Sultanpur. I am an aspiring MERN Stack Developer with a strong interest in building modern, user-friendly web applications. I am continuously improving my skills in MongoDB, Express.js, React.js, and Node.js and enjoy learning new technologies and working on real-world projects.
+- **About:** I am Vansh Kumar Patel, a second-year Information Technology student at KNIT Sultanpur. I am an aspiring MERN Stack Developer with a strong interest in building modern, user-friendly web applications. I am continuously improving my skills in MongoDB, Express.js, React.js, and Node.js and enjoy learning new technologies and working on real-world projects.
 
-- **Name:** Digvijay Singh Rawat  
-- **GitHub:** https://github.com/Digvijay-x1  
+- **Name:** Digvijay Singh Rawat
+- **GitHub:** https://github.com/Digvijay-x1
 - **About:** Student at IIITA. Beginner at open source. Grateful to be a part of OpenCode program.
 
 - **Name:** Anurag Bansode  
 - **GitHub:** https://github.com/Anurag-Bansode 
-- **About:** I have a background in cybersecurity, system administration, and full stack development.  
-I work with Distributed Ledger Technologies (DLTs), secure systems, and infrastructure engineering—building things that favor correctness, verifiability, and long-term sense over short-term hype
+- **About:** I have a background in cybersecurity, system administration, and full stack development.I work with Distributed Ledger Technologies (DLTs), secure systems, and infrastructure engineering—building things that favor correctness, verifiability, and long-term sense over short-term hype.I have professional experience on working with frontends framework such as NextJs, Angular and backend with .Net, .NetCore
 
-I have professional experience on working with frontends framework such as NextJs, Angular and backend with .Net, .NetCore
-
+- **Name:** Aditya Shirsatrao
+- **GitHub:** https://github.com/adityashirsatrao007
+- **About:** I pretend I know Java, Spring Boot, and React. The compiler, debugger, and bugs tell a different story ;)
